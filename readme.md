@@ -9,5 +9,5 @@ Product recommendation: recommend to you great products!
 键盘：  
     游戏：ikbc c87  
     ![Image text：KB216.png](https://github.com/lianchua/Product-treasure-house/blob/main/images/C87.jpg)  
-    办公：dell KB216  
+    办公：DELL KB216  
     ![Image text：KB216.png](https://github.com/lianchua/Product-treasure-house/blob/main/images/KB216.jpg)  
